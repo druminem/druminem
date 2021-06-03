@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @druminem
-- 👀 I’m interested in: UAV Engineering, Coding and Tech
+- 👀 I’m interested in: UAV Engineering, Coding and Technology
 - 🌱 I’m currently learning: Node JS
 - 💞️ I’m looking to collaborate on: Drone projects and coding requirements related to the drone field
 - 📫 How to reach me:
